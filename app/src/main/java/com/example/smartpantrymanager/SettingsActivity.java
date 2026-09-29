@@ -106,7 +106,7 @@ public class SettingsActivity extends AppCompatActivity {
 
         Toast.makeText(
                 this,
-                "Settings saved ♡",
+                "Settings saved !",
                 Toast.LENGTH_SHORT
         ).show();
     }

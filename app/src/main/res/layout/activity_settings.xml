@@ -16,7 +16,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="28dp"
-            android:text="Settings ♡"
+            android:text="Settings"
             android:textColor="#9B8AE6"
             android:textSize="28sp"
             android:textStyle="bold" />
