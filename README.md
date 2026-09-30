@@ -75,7 +75,7 @@ Features
 - Validate expiry dates
 - View suggested recipes based on available ingredients
 - View recipe ingredients and cooking instructions
-- Save application settings
+- Save application settings such as expiry alerts and preferred units
 
 Version Control
 
