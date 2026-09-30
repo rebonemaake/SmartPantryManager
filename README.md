@@ -82,3 +82,7 @@ Version Control
 Git is being used throughout the development of the Smart Pantry Manager project. The project is stored in a public GitHub repository, and changes are being added through separate commits as different parts of the application are developed and improved.
 
 This allows the development progress to be tracked instead of only uploading the completed application at the end.
+
+Project Status
+
+The main pantry, recipe, search, expiry validation and settings features have been implemented and tested during development.
