@@ -138,7 +138,7 @@ public class PantryActivity extends AppCompatActivity {
             listPantryItems.setVisibility(View.GONE);
             if (allPantryItems.isEmpty() && search.isEmpty()) {
                 textEmptyPantry.setText(
-                        "Your pantry is empty ♡\n" +
+                        "No ingredients found!\n" +
                                 "Add your first ingredient below."
                 );
             } else {
@@ -190,7 +190,7 @@ public class PantryActivity extends AppCompatActivity {
         if (result > 0) {
             Toast.makeText(
                     this,
-                    "Ingredient deleted ♡",
+                    "Ingredient deleted! ♡",
                     Toast.LENGTH_SHORT
             ).show();
             loadPantryItems();
