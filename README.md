@@ -66,6 +66,17 @@ Some of the main files used in the application are:
 * PantryAdapter.java – helps display pantry items in the application.
 * RecipeAdapter.java – helps display recipes in the application.
 
+Features
+
+- Add pantry items with quantity, unit and expiry date
+- Edit existing pantry items
+- Delete pantry items
+- Search for pantry items
+- Validate expiry dates
+- View suggested recipes based on available ingredients
+- View recipe ingredients and cooking instructions
+- Save application settings
+
 Version Control
 
 Git is being used throughout the development of the Smart Pantry Manager project. The project is stored in a public GitHub repository, and changes are being added through separate commits as different parts of the application are developed and improved.
